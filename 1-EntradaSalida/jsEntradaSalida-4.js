@@ -4,6 +4,12 @@
 */
 function mostrar()
 {
-	
+	var nombre;
+	document.getElementById('elNombre').value="hola";
+		
+
+
+
+
 }
 
